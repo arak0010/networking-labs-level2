@@ -4,7 +4,9 @@
 Enable communication between devices in different VLANs by routing traffic
 between VLANs.
 
-screenshots/topology.png
+
+![Inter-VLAN Routing Topology](screenshots/topology.png)
+
 
 This Packet Tracer topology demonstrates inter-VLAN routing using a router
 or Layer 3 device, allowing hosts in different VLANs to communicate.
