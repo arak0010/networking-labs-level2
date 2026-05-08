@@ -5,7 +5,8 @@ Configure routing along with DHCP services to automatically assign IP
 addresses to network devices and enable communication between multiple
 networks.
 
-screenshots/topology.png
+![Routing and DHCP Topology](screenshots/topology.png)
+
 
 
 This Packet Tracer topology demonstrates router-based DHCP configuration
