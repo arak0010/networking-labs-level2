@@ -4,7 +4,7 @@
 Increase bandwidth and provide link redundancy by bundling multiple
 physical switch links into a single logical EtherChannel connection.
 
-screenshots/topology.png
+![EtherChannel Topology](screenshots/topology.png)
 
 This Packet Tracer topology demonstrates EtherChannel configuration
 between switches, allowing multiple links to operate as one logical
