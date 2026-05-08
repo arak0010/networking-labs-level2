@@ -4,6 +4,13 @@
 Configure routing between multiple IP networks to allow communication between
 devices on different subnets.
 
+![](screenshots/topology.png)
+
+
+This Packet Tracer topology demonstrates basic routing between multiple
+subnets using configured router interfaces and static route
+
+
 ## Environment
 - Router and switch lab environment
 - Static IP addressing
