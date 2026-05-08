@@ -5,6 +5,7 @@ Improve network security by restricting unauthorized access to switch ports
 using basic switch security features.
 
 screenshots/topology.png
+![Switch_Security Topology](screenshots/topology.png)
 
 ## Description
 This lab demonstrates how switch security features prevent unauthorized
